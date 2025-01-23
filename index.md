@@ -24,7 +24,7 @@ Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your
 
 | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
-| [github t](https://github.com/kunyoungahhh/)| A post with a large header image. |
+| [github test](https://github.com/kunyoungahhh/)| A post with a large header image. |
 
 
 ---

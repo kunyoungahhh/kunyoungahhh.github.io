@@ -1,8 +1,8 @@
 ---
 permalink: /
 author_profile: true
-title: "Test Page"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+title: "Hello:wave:"
+excerpt: ""
 last_modified_at: 2025-01-24T00:11:26-04:00
 toc: true
 ---

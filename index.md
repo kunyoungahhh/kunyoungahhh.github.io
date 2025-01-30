@@ -11,7 +11,7 @@ I am a lazy CS Student :smile: Nice to Meet you!
 
 
 
-## Experiences
+### Experiences
 
 - Bundled as a "theme gem" for easier install/upgrading.
 - Compatible with GitHub Pages.
@@ -20,7 +20,7 @@ I am a lazy CS Student :smile: Nice to Meet you!
 - Several responsive layout options (single, archive index, search, splash, and paginated home page).
 
 
-## Perosnal Projects
+### Perosnal Projects
 
 | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
@@ -29,7 +29,7 @@ I am a lazy CS Student :smile: Nice to Meet you!
 
 ---
 
-## Education
+### Education
 
 ### Icons + Demo Images:
 

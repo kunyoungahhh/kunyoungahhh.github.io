@@ -4,7 +4,7 @@ author_profile: true
 title: ""
 excerpt: ""
 last_modified_at: 2025-01-24T00:11:26-04:00
-toc: true
+toc: false
 ---
 
 I am a lazy CS Student :smile: Nice to Meet you!

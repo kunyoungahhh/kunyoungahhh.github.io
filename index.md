@@ -1,7 +1,7 @@
 ---
 permalink: /
 author_profile: true
-title: "Hi:wave:"
+title: ""
 excerpt: ""
 last_modified_at: 2025-01-24T00:11:26-04:00
 toc: true

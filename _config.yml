@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Kunyoung Jung"
   avatar           : "/assets/images/profile2.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A lazy CS Student"
-  location         : "Seoul, South Korea"
+  bio              : "Rural Korean roots, Seattle skies: Coding thoughtfully while TikTok scrolls and curiosity grows."
+  location         : "Seattle, Washington"
   email            : "kunyoungahhh@gmail.com"
   links:
     - label: "Email"

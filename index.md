@@ -7,7 +7,7 @@ last_modified_at: 2025-04-07T00:11:26-04:00
 toc: false
 ---
 
-I am a lazy CS Student :smile: Nice to Meet you!
+Rural Korean roots, Seattle skies: Coding thoughtfully while TikTok scrolls and curiosity grows.
 
 
 
